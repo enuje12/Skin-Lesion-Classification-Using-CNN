@@ -78,8 +78,8 @@ Filtered out missing image files to prevent training errors
 
 1. Clone the repository:
 ```python
-git clone https://github.com/your-username/skin-lesion-classification.git
-cd skin-lesion-classification
+git clone https://github.com/enuje12/Skin-Lesion-Classification-Using-CNN.git
+cd Skin-Lesion-Classification-Using-CNN
 ```
 
 2. Install dependencies
